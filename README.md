@@ -1,6 +1,6 @@
 # assignment
 
-1.The first cell contains the code to clone the repository.  Just simply run the cell once when using it on colab.
+1.The first cell contains the code (Untitled8-2.ipynb) to clone the repository.  Just simply run the cell once when using it on colab.
 
 Note - While running this notebook on google colab, change runtime type to GPU.
 
